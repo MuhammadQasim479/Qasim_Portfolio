@@ -1,6 +1,5 @@
-import React from 'react'
-import hexapic from '../../assets/images/HexaPic.png'
-import qasim from '../../assets/images/Qasim.png'
+import React from 'react' 
+import qasim from '../../assets/images/qasim.png';
 import { PiHexagon } from "react-icons/pi";
 import {motion} from "framer-motion"
 import { fadeIn } from '../../FramerMotion/framer'
