@@ -1,0 +1,8 @@
+.bg-gr{
+    box-shadow: cyan;
+    top: 0;
+    left: 400px;
+    position: absolute;
+    z-index: -100;
+
+}
